@@ -1,2 +1,2 @@
-# .github
-Config Files for the Cheeter Dev organisation
+# .github - Our Config Files
+Config Files for the Cheeter Dev organisation.
